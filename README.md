@@ -1,5 +1,18 @@
 # Author: Purnanand Wasave
-View the live project in browser [Click Here](https://3000-d5541800-4e23-4fa7-85ea-20d2b06346cd.ws-us02.gitpod.io/)
+View the live project in browser 
+Follow the step:
+1) [Click Here](gitpod.io/#/github.com/purnanandv/ReactJS-TodoApp/tree/master)
+
+2) Go to terminal and run following command
+ ```bash
+ npm install
+ ```
+ 3) After that command
+ run following command:
+ ```bash
+ npm start
+ ```
+ 4) You will see preview window at right side. You can also view it in browser.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
